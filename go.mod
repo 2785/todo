@@ -6,7 +6,7 @@ require (
 	github.com/AlecAivazis/survey/v2 v2.3.2
 	github.com/google/uuid v1.1.2
 	github.com/nanobox-io/golang-scribble v0.0.0-20190309225732-aa3e7c118975
-	github.com/pkg/errors v0.8.1
+	github.com/pkg/errors v0.9.1
 	github.com/sahilm/fuzzy v0.1.0
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/viper v1.9.0
