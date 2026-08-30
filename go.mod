@@ -1,6 +1,6 @@
 module github.com/2785/todo
 
-go 1.17
+go 1.25.0
 
 require (
 	github.com/AlecAivazis/survey/v2 v2.3.2
@@ -12,7 +12,7 @@ require (
 	github.com/spf13/viper v1.9.0
 	github.com/stretchr/testify v1.7.0
 	github.com/thoas/go-funk v0.9.1
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
+	golang.org/x/sync v0.22.0
 )
 
 require (
