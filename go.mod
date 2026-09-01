@@ -1,18 +1,18 @@
 module github.com/2785/todo
 
-go 1.17
+go 1.24.5
 
 require (
 	github.com/AlecAivazis/survey/v2 v2.3.2
 	github.com/google/uuid v1.3.0
 	github.com/nanobox-io/golang-scribble v0.0.0-20190309225732-aa3e7c118975
 	github.com/pkg/errors v0.9.1
-	github.com/sahilm/fuzzy v0.1.0
+	github.com/sahilm/fuzzy v0.1.3
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/viper v1.9.0
 	github.com/stretchr/testify v1.7.0
 	github.com/thoas/go-funk v0.9.1
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
+	golang.org/x/sync v0.16.0
 )
 
 require (
